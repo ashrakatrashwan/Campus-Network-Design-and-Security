@@ -37,3 +37,9 @@ Our project involves designing a secure and efficient campus network infrastruct
 - Network Design Tools: Cisco Packet Tracer.
 - Security Configurations: Port security, ACLs.
 - Documentation: Network performance reports and presentations.
+
+# Team Members
+- Ashrakat Rashwan
+- Laila Sharkawy
+- Bassma Mohamed
+- Hager Hamdy
